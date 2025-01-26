@@ -1,0 +1,1 @@
+db["inscripciones"].find({}, {_id: 0, estudiante: {nombre: 1}, curso: {nombre: 1}})

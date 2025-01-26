@@ -1,0 +1,42 @@
+[
+    {
+        "estudiante": {
+            "nombre": "Juan Perez",
+            "fecha_nacimiento": "2000-05-21"
+        },
+        "curso": {
+            "nombre": "Matemáticas"
+        },
+        "fecha_inscripcion": "2025-01-01"
+    },
+    {
+        "estudiante": {
+            "nombre": "Juan Perez",
+            "fecha_nacimiento": "2000-05-21"
+        },
+        "curso": {
+            "nombre": "Historia"
+        },
+        "fecha_inscripcion": "2025-01-01"
+    },
+    {
+        "estudiante": {
+            "nombre": "Maria Lopez",
+            "fecha_nacimiento": "1999-09-13"
+        },
+        "curso": {
+            "nombre": "Matemáticas"
+        },
+        "fecha_inscripcion": "2025-01-15"
+    },
+    {
+        "estudiante": {
+            "nombre": "Carlos Ruiz",
+            "fecha_nacimiento": "2001-01-30"
+        },
+        "curso": {
+            "nombre": "Biología"
+        },
+        "fecha_inscripcion": "2025-01-15"
+    }
+]
